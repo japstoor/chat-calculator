@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\chatcalculatorapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|solutionrelative:chatcalculatorapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\chatcalculatorapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|solutionrelative:chatcalculatorapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\core\\entities\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|solutionrelative:core\\entities\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\chatcalculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|solutionrelative:chatcalculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|solutionrelative:application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\chatcalculatorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB5A021-7983-4C33-A748-100774FEE174}|ChatCalculatorApi\\ChatCalculatorApi.csproj|solutionrelative:chatcalculatorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\application\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|solutionrelative:application\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4A517E-9BD4-4B9B-B4FD-1B4B021577E6}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7426E16-67A8-42CD-BCEB-41F8AD90E96F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\core\\interfaces\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|c:\\users\\japs0\\source\\repos\\chatcalculatorapi\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0146D1B9-4F9D-4FA4-97EF-BA39B8CC69FC}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatCalculatorApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatCalculatorApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:21:08.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:15:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Program.cs",
+              "RelativeDocumentMoniker": "ChatCalculatorApi\\Program.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Program.cs",
+              "RelativeToolTip": "ChatCalculatorApi\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:22:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Entities\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ChatHistory.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Entities\\ChatHistory.cs",
+              "RelativeToolTip": "Core\\Entities\\ChatHistory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:10:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:12:16.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatCalculatorApi\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatCalculatorApi\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:21:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\ChatService.cs",
+              "RelativeToolTip": "Application\\Services\\ChatService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:20:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:48:19.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatCalculatorApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\ChatCalculatorApi\\appsettings.json",
+              "RelativeToolTip": "ChatCalculatorApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T01:04:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:19:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:18:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:13:54.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:13:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Interfaces\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IChatRepository.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Interfaces\\IChatRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:12:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:11:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\japs0\\source\\repos\\ChatCalculatorApi\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T01:10:01.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
