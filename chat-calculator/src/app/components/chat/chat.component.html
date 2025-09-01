@@ -1,0 +1,16 @@
+<div class="container mt-3">
+  <h4>Welcome, {{user.username}}</h4>
+
+  <div class="chat-box border p-3 mb-3" style="height: 400px; overflow-y: auto; display:flex; flex-direction: column-reverse;">
+    <div *ngFor="let msg of messages">
+      <div [ngClass]="msg.sender === 'user' ? 'text-end text-primary' : 'text-start text-success'">
+        <b>{{msg.sender === 'user' ? 'You' : 'Bot'}}:</b> {{msg.text}}
+      </div>
+    </div>
+  </div>
+
+  <div class="input-group">
+    <input [(ngModel)]="input" type="text" placeholder="Enter expression e.g. 2+4" class="form-control">
+    <button class="btn btn-primary" (click)="send()">Send</button>
+  </div>
+</div>

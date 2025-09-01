@@ -1,14 +1,14 @@
-# Dotnet build
+# Dotnet
 bin/
 obj/
 *.user
 *.db
 *.log
 
-# Angular build
-/dist
-/.angular
-/node_modules
+# Angular
+/chat-calculator/node_modules/
+/chat-calculator/dist/
+/chat-calculator/.angular/
 
 # VS Code
 .vscode/
